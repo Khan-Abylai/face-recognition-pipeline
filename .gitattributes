@@ -1,0 +1,2 @@
+weights/face_reco_last.onnx filter=lfs diff=lfs merge=lfs -text
+weights/model.pt filter=lfs diff=lfs merge=lfs -text
